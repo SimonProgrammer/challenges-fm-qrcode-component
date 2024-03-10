@@ -4,9 +4,9 @@ This is a web project where a QR component is modeled
 
 ## Languajes
 
--HTML
--Css
+- HTML
+- Css
 
 ## Author
 
-Simon Lopez
+Simon Lopez Higuera
