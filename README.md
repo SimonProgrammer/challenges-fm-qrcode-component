@@ -1,13 +1,12 @@
-# Reto Frontend Mentor: Componente QR
+# Frontend Mentor challenge: QR Component
 
-Este es un proyecto web donde se maqueta un componente de QR
+This is a web project where a QR component is modeled
 
-## Lenguajes
+## Languajes
 
-- HTML
-- Css
+-HTML
+-Css
 
-## Autor
+## Author
 
 Simon Lopez
-
