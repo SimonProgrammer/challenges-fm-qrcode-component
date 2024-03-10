@@ -39,7 +39,7 @@ main{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(/img/oval.svg);
+    background-image: url(../img/oval.svg);
     width: 288px;
     height: 288px;
     border-radius: 10px;
